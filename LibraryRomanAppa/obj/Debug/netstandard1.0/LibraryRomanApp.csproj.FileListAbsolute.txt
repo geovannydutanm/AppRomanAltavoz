@@ -1,0 +1,4 @@
+C:\Users\geova\source\repos\slnRomanAppRVoz\LibraryRomanAppa\obj\Debug\netstandard1.0\LibraryRomanApp.csprojAssemblyReference.cache
+C:\Users\geova\source\repos\slnRomanAppRVoz\LibraryRomanAppa\obj\Debug\netstandard1.0\LibraryRomanApp.AssemblyInfoInputs.cache
+C:\Users\geova\source\repos\slnRomanAppRVoz\LibraryRomanAppa\obj\Debug\netstandard1.0\LibraryRomanApp.AssemblyInfo.cs
+C:\Users\geova\source\repos\slnRomanAppRVoz\LibraryRomanAppa\obj\Debug\netstandard1.0\LibraryRomanApp.csproj.CoreCompileInputs.cache
